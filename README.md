@@ -29,7 +29,6 @@ A modern, beautiful React application for exploring the Pokemon universe with st
 ```bash
 # Clone the repository
 git clone https://github.com/Kishta47/poky-app.git
-cd pokemon-app
 
 # Install dependencies
 npm install
