@@ -98,28 +98,4 @@ npm run test:ui
 VITE_BASE_API_URL=https://pokeapi.co/api/v2
 ```
 
-## 📱 Screenshots
-
-_[Add screenshots of your beautiful UI here]_
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [PokeAPI](https://pokeapi.co/) for the Pokemon data
-- [Tailwind CSS](https://tailwindcss.com/) for the beautiful styling framework
-- [React](https://reactjs.org/) for the amazing UI library
-
----
-
 **Built with ❤️ using modern web technologies**
